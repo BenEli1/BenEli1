@@ -4,7 +4,7 @@
 
 👨‍🎓 I’m currently learning Computer Science at Bar-Ilan University.
 
-💻 Looking for a part-time job or internship opportunities.
+💻 Looking for a part-time job or internship opportunities as a Software Developer.
 
 👯 I’m looking to collaborate with other content creators.
 
