@@ -20,9 +20,5 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben-eli-02103b212/)
 &nbsp;
-
-[![HackerRank](https://user-images.githubusercontent.com/92650578/167871150-72ead9b4-8c2e-43cc-91da-b4956f69d309.png)](https://www.hackerrank.com/BenEli)
-
-
-
+[![HackerRank_logo](https://user-images.githubusercontent.com/92650578/167871596-39b87e9f-1e11-4146-8bab-944a48dad433.png)HackerRank](https://www.hackerrank.com/BenEli)
 
