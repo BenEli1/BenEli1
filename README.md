@@ -8,6 +8,11 @@
 
 👯 I’m looking to collaborate with other content creators.
 
+Notable Projects:
+Arkanoid Game - Java
+Chat App For Android & Web - Android|React|JS|C#|HTML|CSS
+Anomaly Detector - C++
+
 ## My GitHub Stats:
 
 
