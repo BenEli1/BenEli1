@@ -23,7 +23,7 @@ Anomaly Detector for Aircraft - C++
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenEli1&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## LeetCode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/BenEli1)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/BenEli1)](https://leetcode.com/BenEli1)
 
 
 ## 📫 Connect with me:
