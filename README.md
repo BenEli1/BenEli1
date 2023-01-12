@@ -12,8 +12,6 @@ Arkanoid Game - Java
 
 Chat App For Android & Web - Android, React, JS, C#, HTML, CSS
 
-Anomaly Detector for Aircraft - C++
-
 Keylogger - Python
 
 ## My GitHub Stats:
