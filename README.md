@@ -4,9 +4,7 @@
 
 👨‍🎓 I’m currently learning Computer Science at Bar-Ilan University.
 
-💻 Looking for a part-time job or internship opportunities as a Software Developer.
-
-👯 I’m looking to collaborate with other content creators.
+💻 Student Software Developer
 
 Notable Projects:
 
@@ -15,6 +13,8 @@ Arkanoid Game - Java
 Chat App For Android & Web - Android, React, JS, C#, HTML, CSS
 
 Anomaly Detector for Aircraft - C++
+
+Keylogger - python
 
 ## My GitHub Stats:
 
