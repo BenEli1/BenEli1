@@ -6,6 +6,10 @@
 
 💻 Student Software Developer
 
+## Leetcode Skills: 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/BenEli1)](https://leetcode.com/BenEli1)
+
+
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)
 ## Other Skills:
