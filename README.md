@@ -8,9 +8,10 @@
 
 ## My GitHub Stats:
 
-## My skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,cpp,c,bash,mysql,html,css,js)](https://skillicons.dev)
-
+## Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)
+## Other Skills:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,idea,linux,eclipse,bootsrap)](https://skillicons.dev)
 
 ## 📫 Connect with me:
 
