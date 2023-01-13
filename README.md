@@ -8,9 +8,9 @@
 
 ## My GitHub Stats:
 
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=python,java,android,cpp,c,bash,sql,html,css,js)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenEli1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenEli1&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Connect with me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben-eli-02103b212/)
