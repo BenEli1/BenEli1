@@ -6,8 +6,6 @@
 
 💻 Student Software Developer
 
-## My GitHub Stats:
-
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)
 ## Other Skills:
