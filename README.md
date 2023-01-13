@@ -8,8 +8,6 @@
 
 ## Leetcode Skills: 
 ![](https://leetcard.jacoblin.cool/BenEli1?theme=unicorn)
-![](https://leetcard.jacoblin.cool/BenEli1?theme=light,unicorn)
-
 
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)
