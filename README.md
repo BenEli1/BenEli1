@@ -7,7 +7,7 @@
 💻 Student Software Developer
 
 ## Leetcode Skills: 
-![](https://leetcard.jacoblin.cool/BenEli1?theme=nord)
+![](https://leetcard.jacoblin.cool/BenEli1?theme=dark)
 
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)
