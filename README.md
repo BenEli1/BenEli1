@@ -12,7 +12,7 @@
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)
 ## Other Skills:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,idea,linux,eclipse,bootsrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,idea,linux,eclipse,bootstrap)](https://skillicons.dev)
 
 ## 📫 Connect with me:
 
