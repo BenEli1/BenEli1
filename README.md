@@ -7,7 +7,7 @@
 💻 Student Software Developer
 
 ## Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenEli1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenEli1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Leetcode Skills: 
 ![](https://leetcard.jacoblin.cool/BenEli1?theme=dark)
 
