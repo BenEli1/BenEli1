@@ -4,7 +4,7 @@
 
 👨‍🎓 I’m currently learning Computer Science at Bar-Ilan University.
 
-💻 Student Software Developer
+💻 Software Engineer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenEli1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://leetcard.jacoblin.cool/BenEli1?theme=dark)
