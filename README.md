@@ -2,7 +2,7 @@
 
 
 
-👨‍🎓 I’m currently learning Computer Science at Bar-Ilan University.
+👨‍🎓 B.Sc Computer Science Graduate from Bar-Ilan University
 
 💻 Software Engineer at Motorola Solutions
 
