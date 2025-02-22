@@ -1,8 +1,9 @@
 # About me:
 
 
+👨‍🎓 M.Sc Computer Science Student at Bar-Ilan University
 
-👨‍🎓 B.Sc Computer Science Graduate from Bar-Ilan University
+👨‍🎓 B.Sc Computer Science Graduate at Bar-Ilan University
 
 💻 Software Engineer at Motorola Solutions
 
