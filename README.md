@@ -1,11 +1,11 @@
 # About me:
 
 
-👨‍🎓 M.Sc Computer Science Student at Bar-Ilan University
+👨‍🎓 M.Sc Computer Science Student @ Bar-Ilan University
 
-👨‍🎓 B.Sc Computer Science Graduate at Bar-Ilan University
+👨‍🎓 B.Sc Computer Science Graduate @ Bar-Ilan University
 
-💻 Software Engineer at Motorola Solutions
+💻 Software Engineer @ Motorola Solutions
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenEli1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://leetcard.jacoblin.cool/BenEli1?theme=dark)
